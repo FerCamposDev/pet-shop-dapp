@@ -1,1 +1,3 @@
-node-modules
+./node-modules
+./.github
+node_modules
